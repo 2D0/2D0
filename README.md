@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="git-top.png" alt="galaxyhub">
 
 <!--
