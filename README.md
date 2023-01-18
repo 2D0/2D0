@@ -28,7 +28,7 @@
 
 <br><br>
 ## 🌏 &nbsp; HOBBY
-<a href="https://boiling-icicle-2ea.notion.site/2d969ad7cd9c419f96fda86be9ada6d9?v=f4dc9425636248bc9cdf2927b27c6f43" target="_blank"> ![notion](https://user-images.githubusercontent.com/70118192/213083727-340734cb-e1be-4018-8e08-0058c7172132.png "notion")</a> <a href="https://www.youtube.com/watch?v=p8FEGUlfgR0" target="_blank"> ![youtube](https://user-images.githubusercontent.com/70118192/213083738-e925cce9-e819-4daf-a572-f18e5ee81b98.png "youtube")</a>
+<a href="https://2d0.notion.site/2d969ad7cd9c419f96fda86be9ada6d9?v=f4dc9425636248bc9cdf2927b27c6f43" target="_blank"> ![notion](https://user-images.githubusercontent.com/70118192/213083727-340734cb-e1be-4018-8e08-0058c7172132.png "notion")</a> <a href="https://www.youtube.com/watch?v=p8FEGUlfgR0" target="_blank"> ![youtube](https://user-images.githubusercontent.com/70118192/213083738-e925cce9-e819-4daf-a572-f18e5ee81b98.png "youtube")</a>
 
 <br><hr/><br>
 
