@@ -1,23 +1,43 @@
-![galaxyHub](https://user-images.githubusercontent.com/70118192/212963639-be3b71aa-c6b5-4873-bce6-a96f423836b7.png "galaxyHub")
+![galaxyHub](https://user-images.githubusercontent.com/70118192/213083161-c862a39c-4491-466e-a269-addb2dd25132.png "galaxyHub")
+
+<br><hr/><br>
+ 
+ ## 🌙 &nbsp; STUDY
+
+![vue](https://user-images.githubusercontent.com/70118192/213083211-ea11808f-8eb7-47cd-a839-c90161b40baf.png "vue")
+![react](https://user-images.githubusercontent.com/70118192/213083241-0a1a9745-6700-4ad5-a3fe-784f9ab650fe.png "react")
+![php](https://user-images.githubusercontent.com/70118192/213083302-6003e506-c9c4-4311-9783-2d2a835ad314.png "php")
+![script](https://user-images.githubusercontent.com/70118192/213083264-ab341b97-dd1e-4ceb-8c10-81e69045c909.png "script")
+![jquery](https://user-images.githubusercontent.com/70118192/213083356-f6f24086-5be1-4241-8567-f6450ea0614a.png "jquey")
+![scss](https://user-images.githubusercontent.com/70118192/213083362-58e29986-fb0a-47a2-aa8f-f01c2efb7465.png "scss")
+![nuxt](https://user-images.githubusercontent.com/70118192/213083391-64b0500c-b125-4559-bbe1-b2cc7fcadc50.png "nuxt")
+![node](https://user-images.githubusercontent.com/70118192/213083468-68b7fdcf-f351-4df1-a9e8-a3e6aa5f2439.png "node")
 
 <br><br>
 
-🦋 STACK 🦋 <br>
+## 🪐 &nbsp; TOOL
 
-![vue](https://user-images.githubusercontent.com/70118192/212962917-bcc2ca4d-d0b1-4fcf-bd31-0c2cf1a9cc27.png "vue") ![react](https://user-images.githubusercontent.com/70118192/212962937-1efb037e-35f4-47cd-8d9a-cce0f320bf7e.png "react") ![script](https://user-images.githubusercontent.com/70118192/212963014-0141d9cf-41f2-4bd1-963c-e258b1c2b9bd.png "script") ![jquery](https://user-images.githubusercontent.com/70118192/212963040-9f7701ae-cc4e-4668-9df0-3a28c4c870f2.png "jquey") ![scss](https://user-images.githubusercontent.com/70118192/212963076-13e696c7-ef92-48f4-9add-7efa76e4a576.png "scss") ![nuxt](https://user-images.githubusercontent.com/70118192/212963089-184125ae-a80c-4b99-b445-a4837972ae1c.png "nuxt")
+![cafe24](https://user-images.githubusercontent.com/70118192/213084089-ff5b5444-2290-474d-9977-e6c5b71eed3a.png)
+![gnuboard](https://user-images.githubusercontent.com/70118192/213084100-1b190dd7-aadb-4397-840d-8ff949728038.png)
+![github](https://user-images.githubusercontent.com/70118192/213084129-5b97bf92-7699-4ce2-bb87-80b265179aec.png)
+![postman](https://user-images.githubusercontent.com/70118192/213084143-68173941-9823-4c19-86cf-c84bfe1d4a69.png)
+![photoshop](https://user-images.githubusercontent.com/70118192/213084156-94ca2f65-ac0d-44ba-9b0c-4d00430ba080.png)
+![illustator](https://user-images.githubusercontent.com/70118192/213084168-c775e4cc-d627-4e1f-80ad-0397eb1ac095.png)
+![lightroom](https://user-images.githubusercontent.com/70118192/213084180-35175ed5-5130-45fa-808b-0cfe46f988f0.png)
+![figma](https://user-images.githubusercontent.com/70118192/213084194-34b0ef1a-6a4f-4dad-867e-0a0f23e59f43.png)
 
 <br><br>
+## 🌏 &nbsp; HOBBY
 
-🧸 HOBBY 🧸 <br>
+[![notion](https://user-images.githubusercontent.com/70118192/213083727-340734cb-e1be-4018-8e08-0058c7172132.png "notion")](https://boiling-icicle-2ea.notion.site/2d969ad7cd9c419f96fda86be9ada6d9?v=f4dc9425636248bc9cdf2927b27c6f43)
+[![youtube](https://user-images.githubusercontent.com/70118192/213083738-e925cce9-e819-4daf-a572-f18e5ee81b98.png "youtube")](https://www.youtube.com/watch?v=p8FEGUlfgR0)
 
-[![notion](https://user-images.githubusercontent.com/70118192/212963784-866667c3-41e9-4322-b90b-7b1791c01efc.png "notion")](https://boiling-icicle-2ea.notion.site/2d969ad7cd9c419f96fda86be9ada6d9?v=f4dc9425636248bc9cdf2927b27c6f43) [![youtube](https://user-images.githubusercontent.com/70118192/212963853-781da8e7-932a-4567-b427-03fd2e4ba1f5.png "youtube")](https://www.youtube.com/watch?v=p8FEGUlfgR0)
+<br><hr/><br>
 
-<br><br>
-
-🤖 2D0 🤖 <br>
-Space maniac "front-end" developer "Diane Lee" <br>
-うちゅうきょうじん "フロントエンド" かいはつしゃ "イ·ダヨン"<br>
-하고 싶은 건 무조건 하는 우주 미치광이 "프론트엔드" 개발자 "이다영"
+## 🥴 &nbsp; 하고 싶은 건 무조건 하는 
+"우주 최강" 프론트엔드 개발자 "이다영"<br>
+"うちゅうさいきょう"フロントエンドかいはつしゃ "イ·ダヨン"<br>
+The "strongest in the universe" front-end developer "Diane Lee"<br>
 
 
 
