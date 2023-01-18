@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/70118192/213091290-6830a5c2-651b-4d11-8381-01c5d8a83781.png "galaxyHub")
+![galaxyhub](https://user-images.githubusercontent.com/70118192/213092109-cf80ea53-5638-49a9-b93c-b19fe6b0faeb.png "galaxyHub")
 
 <br><hr/><br>
  
