@@ -10,8 +10,8 @@
 ![script](https://user-images.githubusercontent.com/70118192/213083264-ab341b97-dd1e-4ceb-8c10-81e69045c909.png "script")
 ![jquery](https://user-images.githubusercontent.com/70118192/213083356-f6f24086-5be1-4241-8567-f6450ea0614a.png "jquey")
 ![scss](https://user-images.githubusercontent.com/70118192/213083362-58e29986-fb0a-47a2-aa8f-f01c2efb7465.png "scss")
-![nuxt](https://user-images.githubusercontent.com/70118192/213083391-64b0500c-b125-4559-bbe1-b2cc7fcadc50.png "nuxt")
-![node](https://user-images.githubusercontent.com/70118192/213083468-68b7fdcf-f351-4df1-a9e8-a3e6aa5f2439.png "node")
+<!-- ![nuxt](https://user-images.githubusercontent.com/70118192/213083391-64b0500c-b125-4559-bbe1-b2cc7fcadc50.png "nuxt") -->
+<!-- ![node](https://user-images.githubusercontent.com/70118192/213083468-68b7fdcf-f351-4df1-a9e8-a3e6aa5f2439.png "node") -->
 
 <br><br>
 
