@@ -13,27 +13,17 @@
 ![scss](https://user-images.githubusercontent.com/70118192/213083362-58e29986-fb0a-47a2-aa8f-f01c2efb7465.png "scss")
 ![CSS-in-JS](https://github.com/2D0/2D0/assets/70118192/18ca4dcb-64a2-4977-b5db-f35f5623b9e8)
 
-<!-- ![nuxt](https://user-images.githubusercontent.com/70118192/213083391-64b0500c-b125-4559-bbe1-b2cc7fcadc50.png "nuxt") -->
-<!-- ![node](https://user-images.githubusercontent.com/70118192/213083468-68b7fdcf-f351-4df1-a9e8-a3e6aa5f2439.png "node") -->
-
 <br><br>
 
 ## 🪐 &nbsp; TOOL
 
 ![github](https://user-images.githubusercontent.com/70118192/213084129-5b97bf92-7699-4ce2-bb87-80b265179aec.png)
 ![sourcetree](https://github.com/2D0/2D0/assets/70118192/3fcf0213-c9dd-4715-a8f6-d14b514c0e1c)
-![figma](https://user-images.githubusercontent.com/70118192/213084194-34b0ef1a-6a4f-4dad-867e-0a0f23e59f43.png)
-<!-- ![photoshop](https://user-images.githubusercontent.com/70118192/213084156-94ca2f65-ac0d-44ba-9b0c-4d00430ba080.png) -->
-<!-- ![lightroom](https://user-images.githubusercontent.com/70118192/213084180-35175ed5-5130-45fa-808b-0cfe46f988f0.png) -->
-<!-- ![illustator](https://user-images.githubusercontent.com/70118192/213084168-c775e4cc-d627-4e1f-80ad-0397eb1ac095.png) -->
-<!-- ![cafe24](https://user-images.githubusercontent.com/70118192/213084089-ff5b5444-2290-474d-9977-e6c5b71eed3a.png) -->
-<!-- ![postman](https://user-images.githubusercontent.com/70118192/213084143-68173941-9823-4c19-86cf-c84bfe1d4a69.png) -->
-<!-- ![gnuboard](https://user-images.githubusercontent.com/70118192/213084100-1b190dd7-aadb-4397-840d-8ff949728038.png) -->
 
 <br><br>
 ## 🌏 &nbsp; HOBBY
-[![notion](https://github.com/2D0/2D0/assets/70118192/915d86c2-4225-4228-9a00-a2c41cb171f8)](https://2d0.notion.site/2d969ad7cd9c419f96fda86be9ada6d9?v=f4dc9425636248bc9cdf2927b27c6f43)
-[![youtube](https://github.com/2D0/2D0/assets/70118192/8dae9bca-92bf-46f2-9ec8-d3a62a2600c6)](https://www.youtube.com/@idy7733)
+[![notion](https://user-images.githubusercontent.com/70118192/263603424-8137ff5c-0282-4fc3-8eb6-9cf2c4981d69.png)](https://2d0.notion.site/2d969ad7cd9c419f96fda86be9ada6d9?v=f4dc9425636248bc9cdf2927b27c6f43)
+[![youtube](https://user-images.githubusercontent.com/70118192/263464871-8dae9bca-92bf-46f2-9ec8-d3a62a2600c6.png)](https://www.youtube.com/@idy7733)
 
 <br><hr/><br>
 
