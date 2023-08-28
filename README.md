@@ -32,8 +32,8 @@
 
 <br><br>
 ## 🌏 &nbsp; HOBBY
-<a href="https://2d0.notion.site/2d969ad7cd9c419f96fda86be9ada6d9?v=f4dc9425636248bc9cdf2927b27c6f43" target="_blank"> ![notion](https://github.com/2D0/2D0/assets/70118192/915d86c2-4225-4228-9a00-a2c41cb171f8) </a>
-<a href="https://www.youtube.com/watch?v=-WiKzqrJsgA" target="_blank"> ![youtube](https://github.com/2D0/2D0/assets/70118192/8dae9bca-92bf-46f2-9ec8-d3a62a2600c6 "youtube") </a>
+[![notion](https://github.com/2D0/2D0/assets/70118192/915d86c2-4225-4228-9a00-a2c41cb171f8)](https://2d0.notion.site/2d969ad7cd9c419f96fda86be9ada6d9?v=f4dc9425636248bc9cdf2927b27c6f43)
+[![youtube](https://github.com/2D0/2D0/assets/70118192/8dae9bca-92bf-46f2-9ec8-d3a62a2600c6)](https://www.youtube.com/@idy7733)
 
 <br><hr/><br>
 
