@@ -30,7 +30,7 @@
 <br><br>
 ## 🌏 &nbsp; HOBBY 
 [![notion](https://user-images.githubusercontent.com/70118192/263603424-8137ff5c-0282-4fc3-8eb6-9cf2c4981d69.png)](https://2d0.notion.site/2d969ad7cd9c419f96fda86be9ada6d9?v=f4dc9425636248bc9cdf2927b27c6f43)
-[![youtube](https://user-images.githubusercontent.com/70118192/263464871-8dae9bca-92bf-46f2-9ec8-d3a62a2600c6.png)](https://www.youtube.com/@idy7733)<br>
+[![youtube](https://user-images.githubusercontent.com/70118192/263464871-8dae9bca-92bf-46f2-9ec8-d3a62a2600c6.png)](https://www.youtube.com/@2d0ed0)<br>
 $\color{#999}(클릭하면 사이트로 이동합니다.)$
 
 <br><hr/><br>
